@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1684767648 source:c:\users\tchin\documents\super_marche\article.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"article.h"
+
+1684747591 c:\users\tchin\documents\super_marche\article.h
+
+1684766967 source:c:\users\tchin\documents\super_marche\client.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"client.h"
+
+1684752492 c:\users\tchin\documents\super_marche\client.h
+
+1684765722 source:c:\users\tchin\documents\super_marche\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"client.h"
+	"article.h"
+	"vendeur.h"
+	"commandes.h"
+	"facturier.h"
+	"vente.h"
+
+1684766967 source:c:\users\tchin\documents\super_marche\vendeur.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"vendeur.h"
+
+1684754539 c:\users\tchin\documents\super_marche\vendeur.h
+
+1684766967 source:c:\users\tchin\documents\super_marche\commandes.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"commandes.h"
+	"client.h"
+	"vendeur.h"
+	"article.h"
+
+1684758603 c:\users\tchin\documents\super_marche\commandes.h
+
+1682978947 c:\users\tchin\documents\super_marche\facturier.h
+
+1684761240 source:c:\users\tchin\documents\super_marche\facturier.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"commandes.h"
+	"client.h"
+	"vendeur.h"
+	"article.h"
+
+1684766967 source:c:\users\tchin\documents\super_marche\vente.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+	"vente.h"
+	"vendeur.h"
+
+1684764002 c:\users\tchin\documents\super_marche\vente.h
+
